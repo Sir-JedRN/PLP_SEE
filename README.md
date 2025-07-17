@@ -12,7 +12,10 @@ A lightweight calculator application that performs basic arithmetic operations
 
 ## Usage
 Clone the repository:
-> git clone https://github.com/Sir-JedRN/PLP_SEE.git
+```bash
+git clone https://github.com/Sir-JedRN/PLP_SEE.git
+```
 
 Compilation
-> python .\Calculator.py
+```bash
+python .\Calculator.py
